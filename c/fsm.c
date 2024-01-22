@@ -10,6 +10,7 @@ enum states{
 	UNLOCKED
 };
 
+
 int main(){
 
 	enum states current_state = LOCKED;
